@@ -2,7 +2,7 @@
 A first open source Python 3.9 Clash of Clans Server for version 14.211.16!
 
 ## Client
-To connect to your server, you need a custom client. Here the only solution is to use a [precompiled client](https://shorturl.at/myLW0)
+To connect to your server, you need a custom client. Here the only solution is to use a [precompiled client](https://bit.ly/3G0BsPj)
 Just edit the IP in the Frida-Gadget config (```/lib/armeabi-v7a/libxeon.config.so```)
 
 ### Friendly reminder
